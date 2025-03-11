@@ -1,0 +1,14 @@
+{
+  "name": "kstrong-backend",
+  "version": "1.0.0",
+  "description": "A robust e-commerce backend application built using the MEAN stack (MongoDB, Express.js, Angular, Node.js).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aashish kaushik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
